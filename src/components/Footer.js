@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
+  AiFillCode,
   AiFillGithub,
   AiOutlineTwitter,
   AiFillInstagram,
@@ -14,7 +15,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Sanghrakshit gautam</h3>
+          <h3>Developed by Sanghrakshit gautam</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} San@NITJ</h3>
@@ -61,6 +62,16 @@ function Footer() {
                 <AiFillInstagram />
               </a>
             </li>
+            <li className="social-icons">
+                <a
+                  href="https://leetcode.com/sanghrakshit/"
+                  style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+                >
+                  <AiFillCode />
+                </a>
+              </li>
           </ul>
         </Col>
       </Row>

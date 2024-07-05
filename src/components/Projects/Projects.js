@@ -33,7 +33,7 @@ function Projects() {
               imgPath={Crypto}
               isBlog={false}
               title="CryptoxAI"
-              description="CRYPTOxAI, the project that made us winners of the OnDemand Hackathon held at NITJ, is a cutting-edge platform combining cryptocurrency exchange with AI-driven insights. It delivers real-time information and predicts cryptocurrency value changes over the next two days, empowering investors to make informed decisions. Our unified workspace allows users to track currency progress, predict trends, and access reliable information about companies and currencies, all in one place."
+              description="CRYPTOxAI is a cutting-edge platform combining cryptocurrency exchange with AI-driven insights. It delivers real-time information and  empowers investors to make informed decisions. Our unified workspace allows users to track currency progress, predict trends, and access reliable information about companies and currencies, all in one place."
               ghLink="https://github.com/Sanghrakshit12/NitJHackathon"
               demoLink="https://cryptoxai.vercel.app/"
             />
