@@ -20,7 +20,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-             I'm a Final Year Computer Science & Engineering Undergrad at National Institute of Technology Jalandhar 👩🏻‍🎓
+             I'm a Final Year Computer Science & Engineering Undergrad at Dr. B.R. Ambedkar National Institute of Technology Jalandhar  👩🏻‍🎓
               <br />
               <br />I am fluent in classics like
               <i>

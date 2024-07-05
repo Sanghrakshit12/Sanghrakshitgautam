@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently working as a Devops Intern at School Hack (a Dubai based Startup)
             <br />
-            I'm a Final Year Computer Science & Engineering Undergrad at National Institute of Technology Jalandhar 👩🏻‍🎓
+            I'm a Final Year Computer Science & Engineering Undergrad at Dr. B.R. Ambedkar National Institute of Technology Jalandhar 👩🏻‍🎓
             <br />
             <br />
             Apart from coding,I'm a!
