@@ -8,6 +8,13 @@
   height: auto; 
 }
 
+.img-fluidx {
+  border-radius: 50%;
+  width: 400px; /* Adjust the width as needed */
+  height: 400px; /* Adjust the height as needed */
+  object-fit: cover; /* Ensures the image covers the circular area without distortion */
+}
+
 
 .App-logo {
   height: 40vmin;
