@@ -15,8 +15,6 @@
   object-fit: cover; /* Ensures the image covers the circular area without distortion */
 }
 
-
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;

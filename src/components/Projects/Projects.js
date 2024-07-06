@@ -43,7 +43,7 @@ function Projects() {
               imgPath={Mon}
               isBlog={false}
               title="MoneyTransferX"
-              description="This full-stack application enables users to securely transfer money between accounts. Built with modern technologies, it leverages Express.js as the HTTP server for the backend, seamlessly connecting to MongoDB using Mongoose as the ODM for data management On the frontend, React is employed as the framework of choice, providing a dynamic and intuitive user interface for seamless interaction with the."
+              description="This full-stack application enables users to securely transfer money between accounts. Built with modern technologies, it leverages Express.js as the HTTP server for the backend, seamlessly connecting to MongoDB using Mongoose as the ODM for data management On the frontend, React is employed as the framework of choice, providing a dynamic and intuitive user interface for seamless interaction with the Application."
               ghLink="https://github.com/Sanghrakshit12/Money-transfering-Application-Fullstack"
               demoLink="https://money-transfering-application-fullstack.vercel.app/"
             />

@@ -12,6 +12,7 @@ import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
+  AiFillSafetyCertificate,
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
@@ -80,6 +81,18 @@ function NavBar() {
                   style={{ marginBottom: "2px" }}
                 />{" "}
                 Projects
+              </Nav.Link>
+            </Nav.Item>
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/certificates"
+                onClick={() => updateExpanded(false)}
+              >
+                <AiFillSafetyCertificate
+                  style={{ marginBottom: "2px" }}
+                />{" "}
+                Certifications
               </Nav.Link>
             </Nav.Item>
 
