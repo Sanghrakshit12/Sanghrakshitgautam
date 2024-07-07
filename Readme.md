@@ -20,9 +20,4 @@ Welcome to my portfolio website! This website is designed to showcase my work as
 
 ## Deployment
 
-This website is deployed using Vercel. You can view it live at https://sanghrakshitgautam.vercel.app/.
-
-
-## License
-
-This project is licensed under the San@NITJ 
+This website is deployed using Vercel. You can view it live at https://sanghrakshitgautam.vercel.app/
