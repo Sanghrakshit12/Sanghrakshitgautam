@@ -32,14 +32,14 @@ function Certificate() {
               demoLink="https://www.udemy.com/certificate/UC-16755fea-d024-4473-ac9c-1e23123ff02e/"
             />
           </Col>
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <CertificateCard
               isBlog={false}
               title="Azure Kubernetes Service, Azure Devops and Terraform"
               description="Currently Studying"
               demoLink=""
             />
-          </Col>
+          </Col> */}
 
         
         </Row>
