@@ -34,7 +34,6 @@ function Certificate() {
           </Col>
           <Col md={4} className="project-card">
             <CertificateCard
-              imgPath={os}
               isBlog={false}
               title="Azure Kubernetes Service, Azure Devops and Terraform"
               description="Currently Studying"
